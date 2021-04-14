@@ -5,7 +5,7 @@
 
 This script can capture every gesture's emg data by myo armband
 
-You can use the data to try your own classifier.
+You can use the data to train your own classifier.
 
 
 
